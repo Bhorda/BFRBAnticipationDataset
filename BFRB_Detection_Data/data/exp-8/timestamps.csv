@@ -1,0 +1,78 @@
+start,end,hand,label,stage
+1582560600000,1582563000000,,,
+1.28,6.28,,,1
+1.24,1.29,n,face touching,1
+1.32,1.35,b,skin picking,1
+1.44,1.50,d,face touching,1
+1.53,1.56,b,skin picking,1
+2.01,2.03,d,face touching,1
+2.04,2.11,b,skin picking,1
+2.17,2.20,d,face touching,1
+2.37,3.13,d,face touching,1
+3.15,3.22,b,fidgeting,1
+3.26,3.46,b,fidgeting,1
+4.26,4.34,d,face touching,1
+4.38,4.54,b,skin picking,1
+5.03,5.39,d,face touching,1
+5.42,5.46,b,skin picking,1
+5.52,6.14,d,face touching,1
+6.34,6.40,b,skin picking,1
+6.47,6.56,b,skin picking,1
+7.08,12.08,,,2
+8.56,9.00,n,face touching,2
+10.40,10.45,n,face touching,2
+11.05,11.10,n,face touching,2
+11.17,11.21,n,face touching,2
+12.23,12.40,b,skin picking,2
+12.44,12.48,b,skin picking,2
+12.48,17.48,,,3
+12.50,13.04,b,skin picking,3
+13.07,13.09,b,skin picking,3
+13.11,13.34,b,skin picking,3
+13.41,14.02,b,skin picking,3
+14.08,14.14,b,skin picking,3
+14.15,14.26,n,face touching,3
+14.28,14.36,b,skin picking,3
+14.38,14.48,b,skin picking,3
+14.49,14.54,n,face touching,3
+14.55,15.11,b,skin picking,3
+15.17,15.23,b,skin picking,3
+15.29,15.31,b,skin picking,3
+15.48,16.07,n,skin picking,3
+16.14,16.26,b,skin picking,3
+16.33,16.44,b,skin picking,3
+16.57,17.01,b,skin picking,3
+17.18,17.22,b,skin picking,3
+17.29,17.38,b,skin picking,3
+17.47,17.58,b,skin picking,3
+17.58,22.58,,,4
+18.22,18.28,d,face touching,4
+18.30,18.31,b,skin picking,4
+18.41,18.55,d,face touching,4
+18.56,19.05,d,skin picking,4
+19.28,20.05,d,face touching,4
+20.10,20.49,b,skin picking,4
+21.08,21.17,b,skin picking,4
+22.29,22.31,d,face touching,4
+22.50,23.01,d,face touching,4
+23.43,28.53,,,5
+29.18,34.18,,,6
+29.34,29.49,d,face touching,6
+30.05,30.17,d,face touching,6
+30.29,30.46,n,face touching,6
+30.49,30.52,d,face touching,6
+31.21,31.24,b,skin picking,6
+31.42,31.50,b,skin picking,6
+31.54,32.23,d,face touching,6
+32.45,33.08,d,face touching,6
+33.12,33.18,n,face touching,6
+33.22,33.31,b,skin picking,6
+34.02,34.28,b,fidgeting,6
+34.30,34.32,b,skin picking,6
+34.40,35.02,b,skin picking,6
+35.36,35.46,d,face touching,6
+35.48,35.52,b,skin picking,6
+35.54,36.00,d,skin biting,6
+36.02,36.27,b,skin picking,7
+36.28,36.34,n,skin biting,7
+36.39,36.54,b,skin picking,7

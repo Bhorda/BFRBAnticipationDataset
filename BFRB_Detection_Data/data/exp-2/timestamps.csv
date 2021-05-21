@@ -1,0 +1,23 @@
+start,end,hand,label,stage
+1581955594000,1581957780000,,,
+0.16,5.16,,,1
+3.34,3.45,d,fidgeting,1
+4.02,4.08,d,skin picking,1
+4.16,5.19,d,skin picking,1
+6.06,11.06,,,2
+11.38,16.38,,,3
+13.37,14.10,b,hand scratching,3
+14.32,14.53,b,fidgeting,3
+14.58,15.08,b,hand scratching,3
+16.06,16.27,b,skin picking,3
+16.30,16.31,n,skin biting,3
+16.56,21.56,,,4
+17.01,17.18,d,skin picking,4
+19.12,20.00,d,skin picking,4
+22.51,27.16,,,5
+27.31,32.31,,,6
+29.52,30.01,n,skin biting,6
+30.13,30.18,n,skin picking,6
+30.24,30.27,n,fidgeting,6
+33.09,34.14,n,skin biting,7
+34.21,35.27,n,nail biting,7
