@@ -44,7 +44,7 @@ To produce the final feature vectors used in our study plese navigate to ``BFRB_
 
 Please cite our paper if you use data/code from this project:
 
-> [1]  Benjamin Searle, Dimitris Spathis, Marios Constantinides, Daniele Quercia, Cecilia Mascolo. ["Anticipatory Detection of Compulsive Body-focused Repetitive Behaviors with Wearables."](https://mobilehci.acm.org/2021) In Proceedings of ACM International Conference on Mobile Human-Computer Interaction (MobileHCI). (to appear)
+> [1]  Benjamin Searle, Dimitris Spathis, Marios Constantinides, Daniele Quercia, Cecilia Mascolo. 2021. ["Anticipatory Detection of Compulsive Body-focused Repetitive Behaviors with Wearables."](https://mobilehci.acm.org/2021) In Proceedings of ACM International Conference on Mobile Human-Computer Interaction (MobileHCI 2021). (to appear)
 
 ## License
 
