@@ -28,7 +28,7 @@ The code is written in python X.X.X. The main libraries needed to execute our co
  - ...
 
 ## 🗂️ Data 
-The sensor signals can be found in ``BFRB_Detection_Data``. Each participant's data in ``exp-X`` contains 5 .csv files which include the accelerometer, gyroscope, heart rate, and heart rate variability signals, along with the raw timestamps.
+The sensor signals can be found in ``BFRB_Detection_Data``. Each participant's data in ``data/exp-X`` contains 5 .csv files which include the accelerometer, gyroscope, heart rate, and heart rate variability signals, along with the raw timestamps.
 
 # ▶️ Run 
 
