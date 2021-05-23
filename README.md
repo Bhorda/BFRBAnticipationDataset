@@ -1,4 +1,4 @@
-# ⌚ Detecting compulsive/repetitive behaviors with smartwatches
+# ⌚ Detecting compulsive behaviors with smartwatches
 ![header image](https://github.com/Bhorda/BFRBAnticipationDataset/blob/main/BFRB_Detection_Data/figure.png)
 
 ### 📖 Anticipatory Detection of Compulsive Body-focused Repetitive Behaviors with Wearables
