@@ -20,13 +20,6 @@ of detection matters but also models need to be context-aware, when designing ju
 
 **This repository**. We provide the dataset and some pre-processing code to reproduce the experiments of our paper [1]. The main input is data collected from a Samsung Galaxy watch which recorded acceleration, gyroscope, and heart rate signals. After our participants completed a set of tasks designed to incuce BRFBs, we annotated the sensor data with BFRB labels through a video recording. Here, we provide the timestamps along with the labeled timeseries for each sensor modality. To facilitate easier re-use of this dataset, we also provide the data pipeline code which creates positive and negative windows, extracts features, and further normalizes the resulting feature vectors in order to prepare them for machine learning.
 
-## 🛠️ Requirements
-The code is written in python X.X.X. The main libraries needed to execute our code are as follows:
-
- - numpy XXX
- - pandas XXX
- - ...
-
 ## 🗂️ Data 
 The sensor signals can be found in ``BFRB_Detection_Data``. Each participant's data in ``data/exp-X`` contains 5 .csv files which include the accelerometer, gyroscope, heart rate, and heart rate variability signals, along with the raw timestamps.
 
